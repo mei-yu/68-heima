@@ -16,6 +16,7 @@ export default {
   padding: 30px 0;
   .iconfont {
     font-size: 126px;
+    color: #f92749;
   }
 }
 </style>
